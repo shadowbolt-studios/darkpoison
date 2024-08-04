@@ -1,4 +1,4 @@
-# 🧪 Dark Poison v1.1 
+# 🧪 Dark Poison v1.2 
 ## 🎮 About Dark Poison
 Dark Poison is an alchemy-based third-person stealth puzzle game.
 
@@ -16,6 +16,23 @@ Sign up at [shadowboltstudios.com](https://shadowboltstudios.com?utm_source=gith
 - Your name in the credits
 
 Limited spots available!
+
+## ✨ Changelog for v1.2
+
+### New Features
+- Added audio to enemy death
+- Added audio when player is spotted
+
+### Improvements
+- Improved UI scaling for playing in browser + all screen sizes
+- Improved size of potion splash
+- Fixed camera collision with floors and ceiling
+- Fixed some lighting issues
+
+### Coming Soon
+- Level 2!
+- Tutorial level to introduce game mechanics
+- Complete UI overhaul
 
 ## ✨ Changelog for v1.1
 

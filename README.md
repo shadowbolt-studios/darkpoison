@@ -1,5 +1,6 @@
 # 🧪 Dark Poison v1.2 
-## 🎮 About Dark Poison
+## 🎮 👉[Play Dark Poison in your browser](https://shadowbolt-studios.github.io/darkpoison-preview/)👈🎮
+## ❔ About Dark Poison
 Dark Poison is an alchemy-based third-person stealth puzzle game.
 
 Dark Poison was created for the PirateSoftware Game Jam 15 (2024). 
